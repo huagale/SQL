@@ -82,16 +82,7 @@
 | data/analysis.sqlite | Готовая база с этими же таблицами |
 | dashboard.png | Статичная визуализация SQL-результатов |
 
-## Как открыть
-
-1. Распакуйте папку проекта и откройте data/analysis.sqlite в [DB Browser for SQLite](https://sqlitebrowser.org/) или другом редакторе SQLite.
-2. На вкладке Execute SQL откройте analysis.sql.
-3. Выделите нужный блок от SELECT до точки с запятой и выполните его. Номера блоков совпадают с таблицей вопросов выше.
-
-Запросы можно выполнять отдельно. Они читают таблицы и не меняют исходные данные. Устанавливать библиотеки или запускать скрипты подготовки для просмотра не требуется.
-
 ## Источник задания и данных
 
 [Пример Gizelle Felix](https://www.kaggle.com/code/gizellef/healthcare-data-analysis-using-sql). Данные: [Prasad Patil / Healthcare Dataset](https://www.kaggle.com/datasets/prasad22/healthcare-dataset), версия 2, CC0 1.0. В этом проекте собственная базовая очистка, поэтому число строк отличается от примера автора.
 
-SQL этой версии — MIT, условия приведены в LICENSE. Условия для данных указаны отдельно выше.
