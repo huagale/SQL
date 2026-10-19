@@ -86,6 +86,4 @@
 
 ## Источник задания и данных
 
-[Пример задания Judithokon](https://github.com/Judithokon/Ecommerce-Customer-Churn-Analysis-Using-SQL). Использован открытый набор [Ankit Verma / Ecommerce Customer Churn](https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction), версия 1. Данные — CC BY-NC-SA 4.0. Запросы написаны для этой учебной версии; результаты могут отличаться от примера из-за правил обработки пропусков.
-
-SQL этой версии — MIT, условия приведены в LICENSE. Условия для данных указаны отдельно выше.
+[Пример задания Judithokon](https://github.com/Judithokon/Ecommerce-Customer-Churn-Analysis-Using-SQL). Использован открытый набор [Ankit Verma / Ecommerce Customer Churn](https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction), версия 1. Данные — CC BY-NC-SA 4.0. Запросы написаны для этой версии; результаты могут отличаться от примера из-за правил обработки пропусков.
