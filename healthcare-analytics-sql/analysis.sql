@@ -1,5 +1,4 @@
--- Учебный анализ на SQLite. Откройте data/analysis.sqlite.
--- Каждый SELECT можно выполнить отдельно. Номера соответствуют README.
+
 
 -- 01. Сколько записей и какова средняя длительность пребывания?
 SELECT COUNT(*) AS admissions, COUNT(billing_amount) AS valid_bills,
