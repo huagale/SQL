@@ -1,5 +1,3 @@
--- Учебный анализ на SQLite. Откройте data/analysis.sqlite.
--- Каждый SELECT можно выполнить отдельно. Номера соответствуют README.
 
 -- 01. Каковы общие показатели продаж?
 SELECT COUNT(*) AS sales_rows, SUM(quantity) AS units,
